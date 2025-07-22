@@ -8,7 +8,7 @@ Este software está bajo **GNU GPLv3 + Cláusula Ética**. Prohibido su uso en s
 ## 💡 Versiones  
 - **Free**: Solo CPU y diccionarios básicos ([Descargar]((https://github.com/lucas-hm/password-cracker-etico))).  
 - **Pro**: Soporte para GPU, diccionarios personalizados y automatización.  
-  [Comprar licencia]((https://hugomoran.gumroad.com/l/nalaj)) (Requiere verificación).  
+  [Comprar licencia](https://hugomoran.gumroad.com/l/nalaj) (Requiere verificación).  
 
 ## 📞 Contacto  
 ¿Eres una empresa de ciberseguridad? Escríbeme a `lucashugomoran12@gmail.com`.  
